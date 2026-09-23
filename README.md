@@ -4,12 +4,12 @@
 - Saikhul Islam
 
 ## Nama Project
-PPDB / SPMB Sekolah [...]
+PPDB / SPMB Sekolah SMP Negeri 1 Indonesia
 
 ## Skema Warna
-- Warna Utama = #...
-- Warna Secondary = #...
-- Warna Aksen = #...
+- Warna Utama = #FFFFFF
+- Warna Secondary = #FFF000
+- Warna Aksen = #02020202
 
 ## Typografi
 - Heading = 
